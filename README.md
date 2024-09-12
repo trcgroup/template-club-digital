@@ -1,18 +1,9 @@
-<div align="center">
+### TRC Sports - Template
 
-  <br />
-  <br />
+<div align="center"> <br /> <br /> <h2 align="center">TRC Sports - Template</h2>
+Este repositorio es un modelo para seguir en la creación del proyecto para el website del Colegio o el club digital. Es una página web totalmente responsiv y adaptable a todos los dispositivos y está construida utilizando HTML, CSS y JavaScript.
 
-  <h2 align="center">GameHive - eSports Gaming Website</h2>
-
- GameHive is a fully responsive esports gaming website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codingstella.github.io/Gaming-website/"><strong>➥ Live Demo</strong></a>
+<a href="https://your-demo-link.com"><strong>➥ Live Demo</strong></a>
 
 </div>
 
-<br />
-
-### Demo Screeshots
-
-![Unigine Desktop Demo](./readme-images/desktop.png "Desktop Demo")
